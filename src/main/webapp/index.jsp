@@ -205,7 +205,7 @@
         </div>
         <div class="project">
             <h3>AWS Infrastructure Automation</h3>
-            <p>Automated EC2 instance provisioning and application deployment using Terraform and Ansible.</p>
+            <p>Automated EC2 instance provisioning and application deployment using Terraform and CFT</p>
         </div>
     </section>
 
