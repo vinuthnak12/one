@@ -178,4 +178,49 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Mustafa, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.<
+        <p>Hello! I'm Mustafa, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+    </section>
+
+    <section id="skills" class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>CI/CD - Jenkins, GitHub Actions</li>
+            <li>Containerization - Docker</li>
+            <li>Orchestration - Kubernetes</li>
+            <li>Infrastructure as Code - Terraform</li>
+            <li>Cloud Platforms - AWS, Azure</li>
+            <li>Monitoring - Prometheus, Grafana</li>
+        </ul>
+    </section>
+
+    <section id="projects" class="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Bank Application Deployment</h3>
+            <p>Deployed a three-tier banking app using Kubernetes, Docker, and MySQL, ensuring high availability and security.</p>
+        </div>
+        <div class="project">
+            <h3>Jenkins CI/CD Pipeline</h3>
+            <p>Created a robust CI/CD pipeline integrating SonarQube, Trivy, and Docker for secure and quality-focused deployments.</p>
+        </div>
+        <div class="project">
+            <h3>AWS Infrastructure Automation</h3>
+            <p>Automated EC2 instance provisioning and application deployment using Terraform and Ansible.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact</h2>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" rows="5" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2024 Mustafa | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+    </footer>
+</body>
+</html>
