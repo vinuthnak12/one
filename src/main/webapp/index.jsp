@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Vinuthna - DevOps Engineer</h1>
+        <h1>Vinuthna - DevOps Engineer from 2025</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
